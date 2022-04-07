@@ -1,5 +1,4 @@
-module datatype {
-}
+
 class apple
 {
  int d=29; //instance variable
